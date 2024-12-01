@@ -67,7 +67,7 @@ Key Variables:
 
 Below is a dashboard used to come up with commercial aircraft analysis
 
-Commercial dashboard.png
+![Alt text](Commercial dashboard.png)
 
 Next is a dashboard that was used to come up with corporate aircraft insights
 
