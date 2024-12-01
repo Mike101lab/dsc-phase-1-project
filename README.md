@@ -67,19 +67,24 @@ Key Variables:
 
 Below is a dashboard used to come up with commercial aircraft analysis
 
-![Alt text](Commercial dashboard.png)
+<img width="797" alt="Commercial dashboard" src="https://github.com/user-attachments/assets/13900283-aa1b-4538-add1-2e0b94547a48">
+
 
 Next is a dashboard that was used to come up with corporate aircraft insights
 
-Corporate Dashboard.png
+<img width="801" alt="Corporate Dashboard" src="https://github.com/user-attachments/assets/ea0d858f-c1c0-4406-8b26-f61be6050b91">
+
 
 ## Analysis
 
-Injuries by Make.png
+<img width="374" alt="Injuries by Make" src="https://github.com/user-attachments/assets/cf0ca9d9-44b6-4c82-9226-8902de9325bc">
 
-Injuries by years.png
 
-Accidents by Purpose of Flight.png
+<img width="499" alt="Injuries by years" src="https://github.com/user-attachments/assets/65c9fd27-c37f-47d1-a97b-d25c5cd3011c">
+
+
+<img width="489" alt="Accidents by Purpose of Flight" src="https://github.com/user-attachments/assets/9037e128-f230-4e92-b1ef-f83266dd7ccb">
+
 
 ## Insights from the analysis
 
