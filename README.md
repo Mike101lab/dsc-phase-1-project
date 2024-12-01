@@ -67,19 +67,19 @@ Key Variables:
 
 Below is a dashboard used to come up with commercial aircraft analysis
 
-![Commercial%20dashboard.png](attachment:Commercial%20dashboard.png)
+Commercial dashboard.png
 
 Next is a dashboard that was used to come up with corporate aircraft insights
 
-![Corporate%20Dashboard.png](attachment:Corporate%20Dashboard.png)
+Corporate Dashboard.png
 
 ## Analysis
 
-![Injuries%20by%20Make.png](attachment:Injuries%20by%20Make.png)
+Injuries by Make.png
 
-![Injuries%20by%20years.png](attachment:Injuries%20by%20years.png)
+Injuries by years.png
 
-![Accidents%20by%20Purpose%20of%20Flight.png](attachment:Accidents%20by%20Purpose%20of%20Flight.png)
+Accidents by Purpose of Flight.png
 
 ## Insights from the analysis
 
