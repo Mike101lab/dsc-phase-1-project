@@ -77,6 +77,9 @@ Next is a dashboard that was used to come up with corporate aircraft insights
 
 ## Analysis
 
+<img width="314" alt="Accidents by Number of engines" src="https://github.com/user-attachments/assets/60339f8b-1016-4a99-bf51-a2aa042b76b5">
+
+
 <img width="374" alt="Injuries by Make" src="https://github.com/user-attachments/assets/cf0ca9d9-44b6-4c82-9226-8902de9325bc">
 
 
